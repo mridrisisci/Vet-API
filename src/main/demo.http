@@ -1,0 +1,27 @@
+
+
+GET localhost:7000/api/vet
+Content-Type: "application/json"
+
+###
+
+GET localhost:7000/api/vet/newappointments
+Content-Type: "application/json"
+
+###
+
+GET localhost:7000/api/vet/patients
+Content-Type: "application/json"
+
+###
+
+GET localhost:7000/api/vet/patient/details/1
+Content-Type: "application/json"
+
+###
+
+POST localhost:7000/api/vet/patients/addpatient/
+Content-Type: "application/json"
+
+###
+
